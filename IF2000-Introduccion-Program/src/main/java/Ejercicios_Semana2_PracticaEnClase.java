@@ -8,5 +8,10 @@
  * @author Usuario
  */
 public class Ejercicios_Semana2_PracticaEnClase {
+
+    public Ejercicios_Semana2_PracticaEnClase() {
+    }
+     
+    for
     
 }
